@@ -10,6 +10,7 @@ namespace TryingoutGit
     {
         static void Main(string[] args)
         {
+            // This should only show in bug branch and once published show online
             //comment
             Console.WriteLine("Here we go!");
             //need to add a line stating push button to close window

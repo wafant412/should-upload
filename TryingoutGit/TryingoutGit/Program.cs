@@ -10,6 +10,10 @@ namespace TryingoutGit
     {
         static void Main(string[] args)
         {
+            //comment
+            Console.WriteLine("Here we go!");
+            //need to add a line stating push button to close window
+            Console.ReadLine();
         }
     }
 }

@@ -11,6 +11,8 @@ namespace TryingoutGit
         static void Main(string[] args)
         {
             //comment
+            Console.WriteLine("Here we go!");
+            Console.ReadLine();
         }
     }
 }
